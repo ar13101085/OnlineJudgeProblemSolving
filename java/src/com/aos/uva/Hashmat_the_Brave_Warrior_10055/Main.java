@@ -13,6 +13,7 @@ public class Main {
 			long secondNumber=scan.nextLong();
 			
 			System.out.println(Math.abs(firstNumber-secondNumber));
+			
 		}
 	}
 

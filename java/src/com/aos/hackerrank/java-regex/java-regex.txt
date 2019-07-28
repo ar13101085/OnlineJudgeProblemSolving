@@ -1,0 +1,5 @@
+problem details
+https://www.hackerrank.com/challenges/java-regex/problem
+
+problem type: basic regex in java
+explanation: 
